@@ -10,7 +10,7 @@ A modern, clean, and very simple responsive HTML invoice template, because somet
 
 - ✨ Simple design
 - 📱 Responsive
-- 🔧 Easily customizable
+- 🔧 Easily customizable     
 - 🌍 RTL support
 
 ## Demo
@@ -41,3 +41,4 @@ Replace `<div class="invoice-box">` with `<div class="invoice-box rtl">`
 ## Contributing
 We love contributions! Contributing is easy; [learn how](https://github.com/sparksuite/simple-html-invoice-template/blob/master/CONTRIBUTING.md).
 
+EDITED BY DAKSH FOR EXPERIMENT
